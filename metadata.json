@@ -1,0 +1,6 @@
+{
+  "name": "PDF Master",
+  "description": "Your secure PDF studio. Open, scan, convert, protect, and edit text & images inside your PDFs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
